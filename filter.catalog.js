@@ -13,6 +13,11 @@ $(function(){
                     var checks = $.inArray($(this).attr('data-prop'), values);
                     if(checks >= 0){
                         $(this).attr('checked', true);
+                        $(this).attr('checked', true);
+                        $(this).attr('checked', true);
+                        $(this).attr('checked', true); $(this).attr('checked', true);
+                        $(this).attr('checked', true);
+
 
                     }
 
