@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5e84eb6-85ec-498e-926e-3f8daa50fcbf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/filter.catalog.js" afterPath="$PROJECT_DIR$/filter.catalog.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="c5e84eb6-85ec-498e-926e-3f8daa50fcbf" name="Default" comment="" />
     <ignored path="test1.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="c5e84eb6-85ec-498e-926e-3f8daa50fcbf" time="1384238446591" ignored="false" />
@@ -140,7 +137,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1672" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
