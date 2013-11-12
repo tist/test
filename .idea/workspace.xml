@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5e84eb6-85ec-498e-926e-3f8daa50fcbf" name="Default" comment="" />
+    <list default="true" id="c5e84eb6-85ec-498e-926e-3f8daa50fcbf" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/filter.catalog.js" afterPath="$PROJECT_DIR$/filter.catalog.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="test1.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="c5e84eb6-85ec-498e-926e-3f8daa50fcbf" time="1384237729263" ignored="false" />
+    <file path="/filter.catalog.js" changelist="c5e84eb6-85ec-498e-926e-3f8daa50fcbf" time="1384238200346" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +31,7 @@
       <file leaf-file-name="filter.catalog.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/filter.catalog.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="3" selection-start="41" selection-end="41" vertical-scroll-proportion="0.07369942">
+            <state line="16" column="21" selection-start="535" selection-end="535" vertical-scroll-proportion="0.39306358">
               <folding />
             </state>
           </provider>
@@ -202,7 +206,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/filter.catalog.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="3" selection-start="41" selection-end="41" vertical-scroll-proportion="0.07369942">
+        <state line="16" column="21" selection-start="535" selection-end="535" vertical-scroll-proportion="0.39306358">
           <folding />
         </state>
       </provider>
