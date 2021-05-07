@@ -39,9 +39,6 @@ git checkout .
 cd ..
 echo "Release extension $EXT_ID"
 
-TAO_RELEASE_OUTPUT=$(taoRelease extensionRelease --extension-to-release ${EXT_ID} --no-interactive --no-write)
-echo "$TAO_RELEASE_OUTPUT"
-
 EXIT_CODE=$(php getExitCode.php $TAO_RELEASE_OUTPUT)
 OUTPUT_MESSAGE=$(php getOutput.php $TAO_RELEASE_OUTPUT)
 
